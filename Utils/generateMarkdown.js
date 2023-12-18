@@ -3,33 +3,33 @@
 function renderLicenseBadge(license) {
   if (license === "MIT") {
     return `![Static Badge](https://img.shields.io/badge/License-MIT-brightgreen)`
-    else if (license === "Apache") {
-      return `![Static Badge](https://img.shields.io/badge/License-Apache-brightgreen)`
-      else if (license === "GNU") {
-        return `![Static Badge](https://img.shields.io/badge/License-GNU-brightgreen)`
-      }
-    else return ("None")}
+    // if (license === "Apache") {
+    //   return `![Static Badge](https://img.shields.io/badge/License-Apache-brightgreen)`
+    //   if (license === "GNU") {
+    //     return `![Static Badge](https://img.shields.io/badge/License-GNU-brightgreen)`
+    //   }
+    //   // else return ("None")}
+    }
   }
-}
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(license) {}
+  // TODO: Create a function that returns the license link
+  // If there is no license, return an empty string
+  function renderLicenseLink(license) { }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) {}
+  // TODO: Create a function that returns the license section of README
+  // If there is no license, return an empty string
+  function renderLicenseSection(license) { }
 
-// TODO: Create a function to generate markdown for README
-function generateMarkdown(data) {
-  return `# ${data.proj_name}
+  // TODO: Create a function to generate markdown for README
+  function generateMarkdown(data) {
+    return `# ${data.proj_name}
   ${renderLicenseBadge(data.license)}
 
 ## Description
 ${data.description} 
 
-## Visuals
-${data.visuals}
+## Table Of Contents
+${data.tableOC}
 
 ## Installation
 ${data.installation}
@@ -40,8 +40,20 @@ ${data.usage}
 ## Support
 ${data.support}
 
+## License
+${data.license}
+
+## Contributing
+${data.contrib}
+
+## Tests
+${data.test}
+
+## Questions
+${data.questions}
 
 `;
-}
+  }
 
-module.exports = generateMarkdown;
+  module.exports = generateMarkdown
+;

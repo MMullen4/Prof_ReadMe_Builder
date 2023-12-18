@@ -11,7 +11,7 @@ inquirer
         },
                 {
             type: 'input',
-            message: 'What is the name of your project?',
+            message: 'What is the name or title of your project?',
             name: 'proj_name',
         },
         {
@@ -21,8 +21,8 @@ inquirer
         },
         {
             type: 'input',
-            message: 'Please include visuals of your project -',
-            name: 'visuals',
+            message: 'Please enter a table of contents for your project -',
+            name: 'tableOC',
         },
         {
             type: 'input',
@@ -41,13 +41,13 @@ inquirer
         },
         {
             type: 'input',
-            message: 'Where can users send contributions?',
+            message: 'Who contributed to this project?',
             name: 'contrib',
         },
         {
             type: 'input',
-            message: 'Please enter the author and any acknowledgments -',
-            name: 'author',
+            message: 'Please enter any test instructions required - ',
+            name: 'test',
         },
         {
             type: 'list',
@@ -61,8 +61,8 @@ inquirer
     ]},
         {
             type: 'input',
-            message: 'what is the current status of your application?',
-            name:'status',
+            message: 'Please note any questions you might have here - ',
+            name:'questions',
         }
     ])
     .then((response) => {
