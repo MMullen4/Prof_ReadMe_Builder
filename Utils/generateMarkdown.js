@@ -1,16 +1,16 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {
-  if (license === "MIT") {
-    return `![Static Badge](https://img.shields.io/badge/License-MIT-brightgreen)`
-    // if (license === "Apache") {
-    //   return `![Static Badge](https://img.shields.io/badge/License-Apache-brightgreen)`
-    //   if (license === "GNU") {
-    //     return `![Static Badge](https://img.shields.io/badge/License-GNU-brightgreen)`
-    //   }
-    //   // else return ("None")}
-    }
-  }
+// // function renderLicenseBadge(license) {
+// //   if (license === "MIT") {
+// //     return `![Static Badge](https://img.shields.io/badge/License-MIT-brightgreen)`
+// //     // if (license === "Apache") {
+//     //   return `![Static Badge](https://img.shields.io/badge/License-Apache-brightgreen)`
+//     //   if (license === "GNU") {
+//     //     return `![Static Badge](https://img.shields.io/badge/License-GNU-brightgreen)`
+//     //   }
+//     //   // else return ("None")}
+//     }
+//   }
 
   // TODO: Create a function that returns the license link
   // If there is no license, return an empty string
