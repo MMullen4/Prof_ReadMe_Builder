@@ -1,23 +1,23 @@
 Project Name
-
+Professional README Builder
 
 Description
-
+A command-line application that dynamically generates a professional README.md file from a user's input.
 
 Visuals
 
 
 Installation
-
+[Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4)
 
 Usage
-
+User answers the prompts to complete a professional README file.
 
 Support
 Please reach out to me with any questions - matt@mmcprintpackaging.com
 
 Contributing
-Open to suggestions.
+Open to suggestions.  Reach out to mhmullen@icloud.com 
 
 Authors and acknowledgment
 Myself and UCLA tutors and Bootcamp lessons

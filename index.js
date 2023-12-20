@@ -41,7 +41,7 @@ inquirer
         },
         {
             type: 'input',
-            message: 'Who contributed to this project?',
+            message: 'How can users contribute to this project?',
             name: 'contrib',
         },
         {

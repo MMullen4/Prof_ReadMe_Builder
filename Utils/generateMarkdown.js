@@ -55,8 +55,10 @@ ${data.test}
 ## Questions
 ${data.questions}
 
+GitHub
 ${data.github}
 
+LinkedIn
 ${data.linkedin}`;
 }
 
