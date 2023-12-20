@@ -1,24 +1,23 @@
-# ReadMe Builder
-  ![Static Badge](https://img.shields.io/badge/License-GNU-brightgreen)
-           else return ("None")
+# RM Build
+  None
 
 ## Description
-builds a prof readme file 
+Prof readme bilder 
 
 ## Table Of Contents
-Installation, Usage, Support, Licence, Contrib
+Title, Usage, Contrib
 
 ## Installation
-NA
+Na
 
 ## Usage
-Answer quoetions
+answer questions
 
 ## Support
 mhmullen@icloud.com
 
 ## License
-GNU
+none
 
 ## Contributing
 me
@@ -27,10 +26,8 @@ me
 none
 
 ## Questions
-email/b
+mhmullen@icloud.com
 
-MMullen4/b
+MMullen4
 
-linkedin.com/in/matthewmullen1/b
-
-
+linkedin.com/in/matthewmullen1
