@@ -61,9 +61,19 @@ inquirer
     ]},
         {
             type: 'input',
-            message: 'Please note any questions you might have here - ',
+            message: 'Please indicate who to reach for any questions a user might have - ',
             name:'questions',
-        }
+        },
+        {
+            type: 'input',
+            name: 'github',
+            message: 'Enter your GitHub Username',
+        },
+        {
+            type: 'input',
+            name: 'linkedin',
+            message: 'Enter your LinkedIn URL.',
+        },
     ])
     .then((response) => {
         console.log(response);
