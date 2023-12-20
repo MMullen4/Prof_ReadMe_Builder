@@ -77,7 +77,7 @@ inquirer
     ])
     .then((response) => {
         console.log(response);
-        const filename = `./Utils/README.md`
+        const filename = `./Utils/Index.html`
 
         fs.writeFile(filename, generateMarkdown (response), (err) => // executes genmrkdwn within fs.writefile
             err ? console.error(err) : console.log('Success!'))
