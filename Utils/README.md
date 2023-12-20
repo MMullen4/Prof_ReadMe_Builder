@@ -1,17 +1,17 @@
-# Professionsal README Builder
+# README Builder
   ![Static Badge](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ## Description
-A command-line application that dynamically generates a professional README.md file from a user's input. 
+A professional readme builder that asks the user for prompts to fulfill the README 
 
 ## Table Of Contents
-Installation, Usage, License, Contributing, Tests, and Questions
+INstallation, Usage, Support, License, Contributing, Tests,Quest ions
 
 ## Installation
 NA
 
 ## Usage
-Answer the questions to complete the README.
+Answer the prompts
 
 ## Support
 mhmullen@icloud.com
@@ -20,17 +20,16 @@ mhmullen@icloud.com
 MIT
 
 ## Contributing
-myself and UCLA 
+Contributions welcomed.  Reach me at mhmullen@icloud.com
 
 ## Tests
 none
 
 ## Questions
-# For questions -
-mhmullen@icloud.com
+Myself at mhmullen@icloud.com
 
-#GitHub
+GitHub
 MMullen4
 
-#LinkedIn
-linkedin.com/in/matthewmullen1
+LinkedIn
+https://www.linkedin.com/in/matthewmullen1/
