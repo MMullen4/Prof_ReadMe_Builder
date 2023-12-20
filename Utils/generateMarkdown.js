@@ -15,14 +15,6 @@ function renderLicenseBadge(license) {
   }
 }
 
-// function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(license) { }
-
-// function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) { }
-
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.proj_name}
@@ -32,7 +24,8 @@ function generateMarkdown(data) {
 ${data.description} 
 
 ## Table Of Contents
-${data.tableOC}
+// ${data.tableOC}
+Description, TOC, Installation, Usage, Support, License, Tests, Questions
 
 ## Installation
 ${data.installation}

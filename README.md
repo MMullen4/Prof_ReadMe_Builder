@@ -7,6 +7,10 @@ A command-line application that dynamically generates a professional README.md f
 ## Visuals
 ![Alt text](<Screenshot 2023-12-20 at 2.38.37 PM-1.png>)
 
+Step by step intructions -
+https://watch.screencastify.com/v/Gn1vmNe5aJcpyDFzIFil
+
+
 ## Installation
 Inquirer package needed to properly execute.
 [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4)
