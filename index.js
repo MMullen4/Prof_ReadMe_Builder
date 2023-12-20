@@ -16,14 +16,9 @@ inquirer
         },
         {
             type: 'input',
-            message: 'Please describe your project -',
+            message: 'Please describe your project (i.e. motivation, problems solved, etc.',
             name: 'description',
         },
-        // {
-        //     type: 'input',
-        //     message: 'Please enter a table of contents for your project -',
-        //     name: 'tableOC',
-        // },
         {
             type: 'input',
             message: 'Describe how your project is installed -',

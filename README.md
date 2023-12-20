@@ -5,7 +5,9 @@ Professional README Builder
 A command-line application that dynamically generates a professional README.md file from a user's input.
 
 ## Visuals
-![Alt text](<Screenshot 2023-12-20 at 2.38.37 PM-1.png>)
+```md
+![alt text](Images/Screenshot 2023-12-20 at 2.38.37 PM-1.png)
+```
 
 Step by step intructions -
 https://watch.screencastify.com/v/Gn1vmNe5aJcpyDFzIFil

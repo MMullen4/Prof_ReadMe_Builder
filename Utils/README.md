@@ -1,35 +1,41 @@
-# README Builder
-  ![Static Badge](https://img.shields.io/badge/License-MIT-brightgreen)
+# README builder
+  ![Static Badge](https://img.shields.io/badge/License-Apache-brightgreen)
 
 ## Description
-A professional readme builder that asks the user for prompts to fulfill the README 
+builds a prof readme  
 
 ## Table Of Contents
-INstallation, Usage, Support, License, Contributing, Tests,Quest ions
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 NA
 
 ## Usage
-Answer the prompts
+answer the questions
 
 ## Support
 mhmullen@icloud.com
 
 ## License
-MIT
+Apache
 
 ## Contributing
-Contributions welcomed.  Reach me at mhmullen@icloud.com
+open to suggestionsd
 
 ## Tests
 none
 
 ## Questions
-Myself at mhmullen@icloud.com
+mhmullen@icloud.com
 
 GitHub
 MMullen4
 
 LinkedIn
-https://www.linkedin.com/in/matthewmullen1/
+linkedin.com/in/matthewmullen1

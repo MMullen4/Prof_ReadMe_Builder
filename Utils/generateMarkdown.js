@@ -24,8 +24,12 @@ function generateMarkdown(data) {
 ${data.description} 
 
 ## Table Of Contents
-// ${data.tableOC}
-Description, TOC, Installation, Usage, Support, License, Tests, Questions
+- [Installation} (#Installation)
+- [Usage] (#Usage)
+- [Support] (#Support)
+- [License] (#License)
+- [Tests] (#Tests)
+- [Questions] (#Questions)
 
 ## Installation
 ${data.installation}
