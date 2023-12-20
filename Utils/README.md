@@ -1,23 +1,24 @@
-# Prof Readme
-  ![Static Badge](https://img.shields.io/badge/License-Apache-brightgreen)
+# ReadMe Builder
+  ![Static Badge](https://img.shields.io/badge/License-GNU-brightgreen)
+           else return ("None")
 
 ## Description
-readme builder 
+builds a prof readme file 
 
 ## Table Of Contents
-1. start, 2. body, 3. end
+Installation, Usage, Support, Licence, Contrib
 
 ## Installation
-na
+NA
 
 ## Usage
-answer questions
+Answer quoetions
 
 ## Support
-email
+mhmullen@icloud.com
 
 ## License
-Apache
+GNU
 
 ## Contributing
 me
@@ -26,7 +27,10 @@ me
 none
 
 ## Questions
-me
-MMullen4
-linkedin.com/in/matthewmullen1
+email/b
+
+MMullen4/b
+
+linkedin.com/in/matthewmullen1/b
+
 
