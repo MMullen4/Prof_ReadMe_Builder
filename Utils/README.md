@@ -1,38 +1,37 @@
-# README builder
-  ![Static Badge](https://img.shields.io/badge/License-Apache-brightgreen)
+# Prof README Builder
+  ![Static Badge](https://img.shields.io/badge/License-GNU-brightgreen)
 
 ## Description
-builds a prof readme  
+A program to simplify the process to build a great README  
 
 ## Table Of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+- [Installation} (#Installation)
+- [Usage] (#Usage)
+- [Support] (#Support)
+- [License] (#License)
+- [Tests] (#Tests)
+- [Questions] (#Questions)
 
 ## Installation
 NA
 
 ## Usage
-answer the questions
+Answer the questions
 
 ## Support
 mhmullen@icloud.com
 
 ## License
-Apache
+GNU
 
 ## Contributing
-open to suggestionsd
+open to contributions at mhmullen@icloud.com
 
 ## Tests
 none
 
 ## Questions
-mhmullen@icloud.com
+myself
 
 GitHub
 MMullen4
