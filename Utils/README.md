@@ -5,7 +5,7 @@
 A program to simplify the process to build a great README  
 
 ## Table Of Contents
-- [Installation} (#Installation)
+- [Installation] (#Installation)
 - [Usage] (#Usage)
 - [Support] (#Support)
 - [License] (#License)
