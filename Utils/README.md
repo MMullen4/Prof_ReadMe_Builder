@@ -1,40 +1,40 @@
-# Prof README Builder
-  ![Static Badge](https://img.shields.io/badge/License-GNU-brightgreen)
+# readme builder
+  ![Static Badge](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ## Description
-A program to simplify the process to build a great README  
+want to help build good readmes 
 
 ## Table Of Contents
-- [Installation] (#Installation)
-- [Usage] (#Usage)
-- [Support] (#Support)
-- [License] (#License)
-- [Tests] (#Tests)
-- [Questions] (#Questions)
+- [Installation}(#installation)
+- [Usage](#usage)
+- [Support](#support)
+- [License](#license)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
-NA
+na
 
 ## Usage
-Answer the questions
+answer questions
 
 ## Support
-mhmullen@icloud.com
+matt
 
 ## License
-GNU
+MIT
 
 ## Contributing
-open to contributions at mhmullen@icloud.com
+mhmullen@icloud.com
 
 ## Tests
 none
 
 ## Questions
-myself
+Matt
 
 GitHub
-MMullen4
+mhmullen4
 
 LinkedIn
-linkedin.com/in/matthewmullen1
+www

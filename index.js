@@ -2,7 +2,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown=require("./Utils/generateMarkdown")
 
-inquirer
+inquirer // questions to build the readme file from
     .prompt([
         {
             type: 'input',
@@ -16,7 +16,7 @@ inquirer
         },
         {
             type: 'input',
-            message: 'Please describe your project (i.e. motivation, problems solved, etc.',
+            message: 'Please describe your project (i.e. motivation, problems solved, etc.)',
             name: 'description',
         },
         {
@@ -70,7 +70,7 @@ inquirer
             message: 'Enter your LinkedIn URL.',
         },
     ])
-    .then((response) => {
+    .then((response) => {  // builds the readme file inside the utils folder
         console.log(response);
         const filename = `./Utils/README.md`
 

@@ -1,6 +1,6 @@
 // function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {
+function renderLicenseBadge(license) {  // function to grab the license badges
   if (license === "MIT") {
     return `![Static Badge](https://img.shields.io/badge/License-MIT-brightgreen)`
   }
@@ -24,12 +24,12 @@ function generateMarkdown(data) {
 ${data.description} 
 
 ## Table Of Contents
-- [Installation} (#Installation)
-- [Usage] (#Usage)
-- [Support] (#Support)
-- [License] (#License)
-- [Tests] (#Tests)
-- [Questions] (#Questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Support](#support)
+- [License](#license)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 ${data.installation}
