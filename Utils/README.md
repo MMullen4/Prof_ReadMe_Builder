@@ -1,11 +1,11 @@
-# readme builder
-  ![Static Badge](https://img.shields.io/badge/License-MIT-brightgreen)
+# README Builder
+  ![Static Badge](https://img.shields.io/badge/License-GNU-brightgreen)
 
 ## Description
-want to help build good readmes 
+A way to simplfy the README process 
 
 ## Table Of Contents
-- [Installation}(#installation)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Support](#support)
 - [License](#license)
@@ -13,16 +13,16 @@ want to help build good readmes
 - [Questions](#questions)
 
 ## Installation
-na
+NA
 
 ## Usage
-answer questions
+answer the questions
 
 ## Support
-matt
+mhmullen@icloud.com
 
 ## License
-MIT
+GNU
 
 ## Contributing
 mhmullen@icloud.com
@@ -31,10 +31,10 @@ mhmullen@icloud.com
 none
 
 ## Questions
-Matt
+Me
 
 GitHub
-mhmullen4
+Mhmullen4
 
 LinkedIn
 www
